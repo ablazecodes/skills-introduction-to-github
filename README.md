@@ -25,7 +25,12 @@ _Get started using GitHub in less than an hour._
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
+**What is Git**: Git is like a time machine for your computer code. It helps you keep track of all the changes you make to your code, so you can go back in time if something goes wrong. It's also a way for multiple people to work on the same code without stepping on each other's toes. Git makes it easier to collaborate with others and build software more safely.
+
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
+
+- In other words : It allows groups of developers to collaborate on the same documents (often source code) simultaneously and without overriding each other’s work. 
+
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
